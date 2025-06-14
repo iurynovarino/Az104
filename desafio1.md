@@ -19,12 +19,12 @@ Utilizar o GitHub como ferramenta para compartilhamento de documentação técni
 
 # Máquinas Virtuais no Azure
 
-## Conceito de máquina virtual
+📌 ## Conceito de máquina virtual
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uma máquina virtual é um ambiente computacional isolado que simula um computador físico, executando sistemas operacionais e aplicativos de forma independente.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As VMs do Azure são um dos vários tipos de recursos de computação escalonáveis sob demanda oferecidos pelo Azure. Com as VMs, você tem controle total sobre a configuração e pode instalar qualquer coisa que precisar para realizar o trabalho. Você não precisa comprar o hardware físico quando precisar dimensionar ou estender o datacenter. Por fim, o Azure oferece serviços adicionais para monitorar, proteger e gerenciar atualizações e patches para o sistema operacional.
 
-📌 **Configuração de Máquinas Virtuais no Azure**
+## 📌 Configuração de Máquinas Virtuais no Azure
 
 Você pode criar uma VM no Azure via Portal Azure, Azure CLI, PowerShell ou templates ARM/Bicep.
 
@@ -41,3 +41,38 @@ Você pode criar uma VM no Azure via Portal Azure, Azure CLI, PowerShell ou temp
 **Discos:** Disco do SO e discos de dados adicionais (Standard ou Premium SSD).
 
 **Tags:** Úteis para organização e controle de custos.
+
+
+## 📌 Configuração de Alta Disponibilidade para VMs no Azure
+**Availability Sets** (Conjuntos de Disponibilidade):
+
+- Protege contra falhas de hardware dentro de um datacenter;
+
+- Distribui VMs em domínios de falha (Fault Domains) e domínios de atualização (Update Domains).
+
+**Availability Zones** (Zonas de Disponibilidade):
+
+- Distribui VMs entre zonas físicas separadas dentro de uma mesma região do Azure;
+
+- Protege contra falhas de datacenter inteiros.
+
+**Scale Sets** (Conjuntos de Escala de Máquinas Virtuais):
+
+- Permite criar e gerenciar um grupo de VMs idênticas;
+
+- Suporte a escalonamento automático (auto-scale).
+
+**Load Balancer:**
+
+- Distribui o tráfego entre múltiplas VMs para alta disponibilidade e balanceamento de carga.
+
+<p align="center">
+<img width="250" src="https://media1.tenor.com/m/-4szaF3NffAAAAAC/so-easy.gif"> 
+</p>
+
+
+
+
+
+  
+

@@ -29,7 +29,7 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para o exam
 
 Veja os projetos e desafios que completei durante o bootcamp:
 
-
+- **Desafio 1**: [Descrição do projeto e link para o código]()
 
 <p align="center">
 <img width="400" src="https://c.tenor.com/hPN0rA8xC5wAAAAM/work-homework.gif">

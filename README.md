@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do **Bootcamp Microsoft Azure Essentials** da DIO! Aqui você encontrará todos os recursos e links que vou utilizar para concluir o bootcamp.Esse BootCamp é focado na preparação para o exame **AZ-104**.
 <p align="center">
-<img width="400" src="https://c.tenor.com/hPN0rA8xC5wAAAAM/work-homework.gif">
+<img width="100" src="https://github.com/iurynovarino/Az104/blob/main/bras%C3%A3oAz104.png"> 
 </p>
 
 ## 🗂️ O Que Você Encontrará Aqui
@@ -22,8 +22,15 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para o exam
 - [Link do Bootcamp da DIO](https://web.dio.me/track/microsoft-az-104-certification)
 - [Teste prático oficial da Microsoft](https://learn.microsoft.com/pt-br/credentials/certifications/azure-administrator/practice/assessment?assessment-type=practice&assessmentId=21&practice-assessment-type=certification)
 - [Documentação técnica Microsoft](https://learn.microsoft.com/pt-br/docs/)
+- [site oficial da DIO](https://web.dio.me/)
 
 
 ## 💻 Projetos e Desafios
 
 Veja os projetos e desafios que completei durante o bootcamp:
+
+
+
+<p align="center">
+<img width="400" src="https://c.tenor.com/hPN0rA8xC5wAAAAM/work-homework.gif">
+</p>

@@ -30,6 +30,7 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para o exam
 Veja os projetos e desafios que completei durante o bootcamp:
 
 - [**Desafio 1**](https://github.com/iurynovarino/Az104/blob/main/desafio1.md)
+- [**Desafio 2**](https://github.com/iurynovarino/Az104/blob/main/desafio2.md)
 
 <p align="center">
 <img width="400" src="https://c.tenor.com/hPN0rA8xC5wAAAAM/work-homework.gif">
